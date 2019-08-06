@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ec78485-572e-430f-bf65-c063dfff91d3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/InPiterWeDrinkStrategy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57139BFC-E1DA-4913-8884-2BBBF31D74D3/36/00638346/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/SayStrategy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/CafeProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/RandomNumberGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/InLvivWeDegustateStrategy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/Place2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/Models/Cafe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/CoordinatesLocation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/PlaceLocation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/ILocation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/Models/Place.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/Phrases.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/IPlaceProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/MatchingPlacesRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZhrachkaBot.Main/PhraseLanguage.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/ZhrachkaBot.Main.csproj" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/Place.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/Phrases.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/RandomNumberGenerator.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/IPlaceFinder.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/Place2.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/Models/Place.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/Models/Cafe.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/ILocation.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/CoordinatesLocation.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/appsettings.json" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/PlaceLocation.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/MatchingPlacesRequest.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/IPlaceProvider.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/CafeProvider.cs" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/SayStrategy.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/PhraseLanguage.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/InPiterWeDrinkStrategy.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/InLvivWeDegustateStrategy.cs" />
+        <option value="$PROJECT_DIR$/ZhrachkaBot.Main/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="ZhrachkaBot" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="ZhrachkaBot" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="ZhrachkaBot.Main" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ZhrachkaBot.Main/bin/Debug/netcoreapp2.2/ZhrachkaBot.Main.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZhrachkaBot.Main" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ZhrachkaBot.Main/ZhrachkaBot.Main.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Vultr Zhrachka Bot">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="zhrachka-bot" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="zhrachka-bot" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue="Docker.Dockerfile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ec78485-572e-430f-bf65-c063dfff91d3" name="Default Changelist" comment="" />
+      <created>1561463450526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561463450526</updated>
+      <workItem from="1561463452221" duration="16065000" />
+      <workItem from="1564052606793" duration="1064000" />
+      <workItem from="1564644348347" duration="4467000" />
+      <workItem from="1564994146154" duration="1010000" />
+      <workItem from="1564997616349" duration="2292000" />
+      <workItem from="1565088094061" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25502000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26318595" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991462" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32977587" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" sideWeight="0.49973363" weight="0.32977587" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.565635" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5002664" side_tool="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32977587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/borrower-loans/cancelled-dd-loans-new/table/enum-filter.component.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/borrower-loans/cancelled-dd-loans-new/table/enum-filter.component.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/exacttarget-notifications-queue.module.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/exacttarget-notifications-queue.component.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/exacttarget-notifications-queue.bootstrap.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/exacttarget-notifications-queue.component.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/exacttarget-notifications-queue.module.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/exacttarget-notifications-queue.service.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/exacttarget-notifications-queue.bootstrap.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/exacttarget-notifications-queue.service.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/markets/rate-request/rate-request.routes.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/markets/rate-request/rate-request.routes.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/markets/rate-request/rate-request.module.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/markets/rate-request/rate-request.service.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/markets/rate-request/rate-request.module.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/markets/rate-request/rate-request.service.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/markets/rate-request/models/rate-request.models.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/markets/rate-request/models/rate-request.models.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/markets/rate-request/components/rate-requests.component.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/markets/rate-request/components/rate-requests.component.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/models/status.filter.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/models/status.filter.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/models/search-notification.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/models/exacttarget-notification.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/models/search-notification.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/models/exacttarget-notification.js.map" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/resend/resend.component.js" />
+        <option value="C:/dev/repos/ratesetter/RSAdminV3/app/exacttarget-notifications-queue/resend/resend.component.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ZhrachkaBot.Main/CafeProvider.cs</url>
+          <line>27</line>
+          <properties documentPath="$PROJECT_DIR$/ZhrachkaBot.Main/CafeProvider.cs" initialLine="25">
+            <startOffsets>
+              <option value="874" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1247" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57139BFC-E1DA-4913-8884-2BBBF31D74D3/36/00638346/ExceptionDispatchInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="82" column="7" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/RandomNumberGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <marker date="1561469989776" expanded="true" signature="6:66" ph="..." />
+            <marker date="1561469989776" expanded="true" signature="94:1989" ph="{...}" />
+            <marker date="1561469989776" expanded="true" signature="101:564" ph="///A class that will return one of the given items with a specified possibility. ... " />
+            <marker date="1561469989776" expanded="true" signature="606:1987" ph="{...}" />
+            <marker date="1561469989776" expanded="true" signature="765:842" ph="/// All items possibilities sum. ... " />
+            <marker date="1561469989776" expanded="true" signature="898:1168" ph="/// Adds a new item to return. ... " />
+            <marker date="1561469989776" expanded="true" signature="1220:1351" ph="{...}" />
+            <marker date="1561469989776" expanded="true" signature="1361:1594" ph="/// Returns a random item from the list with the specified relative possibility. ... " />
+            <marker date="1561469989776" expanded="true" signature="1622:1981" ph="{...}" />
+            <marker date="1561469989776" expanded="true" signature="1768:1907" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/Phrases.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <marker date="1561548034901" expanded="true" signature="6:47" ph="..." />
+            <marker date="1561548034901" expanded="true" signature="75:2112" ph="{...}" />
+            <marker date="1561548034901" expanded="true" signature="102:2110" ph="{...}" />
+            <marker date="1561548034901" expanded="true" signature="182:238" ph="{...}" />
+            <marker date="1561548034901" expanded="true" signature="357:634" ph="{...}" />
+            <marker date="1561548034901" expanded="true" signature="722:1955" ph="{...}" />
+            <marker date="1561548034901" expanded="true" signature="2007:2104" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/Place2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding>
+            <marker date="1561548034918" expanded="true" signature="26:888" ph="{...}" />
+            <marker date="1561548034918" expanded="true" signature="52:886" ph="{...}" />
+            <marker date="1561548034918" expanded="true" signature="82:102" ph="{...}" />
+            <marker date="1561548034918" expanded="true" signature="157:239" ph="{...}" />
+            <marker date="1561548034918" expanded="true" signature="369:568" ph="{...}" />
+            <marker date="1561548034918" expanded="true" signature="439:529" ph="{...}" />
+            <marker date="1561548034918" expanded="true" signature="660:703" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/IPlaceProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#94#0" expanded="true" />
+            <marker date="1561549024515" expanded="true" signature="160:260" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/CafeProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1552">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <marker date="1561549994088" expanded="true" signature="6:330" ph="..." />
+            <marker date="1561549994088" expanded="true" signature="358:3324" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="407:3322" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="528:592" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="693:1833" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="922:1246" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="1377:1447" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="1547:1631" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="1690:1775" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="1908:2556" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="1948:2546" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="2127:2242" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="2358:2473" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="2632:3316" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="2805:3278" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="2872:3262" ph="{...}" />
+            <marker date="1561549994088" expanded="true" signature="3082:3244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/MatchingPlacesRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1561548911567" expanded="true" signature="61:268" ph="{...}" />
+            <marker date="1561548911567" expanded="true" signature="102:266" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/PlaceLocation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1561548814866" expanded="true" signature="26:138" ph="{...}" />
+            <marker date="1561548814866" expanded="true" signature="58:136" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/PhraseLanguage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <marker date="1564647990746" expanded="true" signature="26:137" ph="{...}" />
+            <marker date="1564647990746" expanded="true" signature="59:135" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/ILocation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <marker date="1561548159231" expanded="true" signature="26:150" ph="{...}" />
+            <marker date="1561548159231" expanded="true" signature="59:148" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/CoordinatesLocation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1561548167055" expanded="true" signature="26:182" ph="{...}" />
+            <marker date="1561548167055" expanded="true" signature="77:180" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/Models/Place.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1561548040165" expanded="true" signature="33:170" ph="{...}" />
+            <marker date="1561548040165" expanded="true" signature="67:168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/Models/Cafe.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1561548194038" expanded="true" signature="33:302" ph="{...}" />
+            <marker date="1561548194038" expanded="true" signature="65:300" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/ZhrachkaBot.Main.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="94" selection-start-line="9" selection-start-column="94" selection-end-line="9" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/SayStrategy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1564647777590" expanded="true" signature="26:131" ph="{...}" />
+            <marker date="1564647777590" expanded="true" signature="66:129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/InPiterWeDrinkStrategy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <marker date="1564648201701" expanded="true" signature="41:1263" ph="{...}" />
+            <marker date="1564648201701" expanded="true" signature="97:1261" ph="{...}" />
+            <marker date="1564648201701" expanded="true" signature="153:272" ph="{...}" />
+            <marker date="1564648201701" expanded="true" signature="344:833" ph="{...}" />
+            <marker date="1564648201701" expanded="true" signature="536:613" ph="{...}" />
+            <marker date="1564648201701" expanded="true" signature="704:779" ph="{...}" />
+            <marker date="1564648201701" expanded="true" signature="903:1255" ph="{...}" />
+            <marker date="1564648201701" expanded="true" signature="943:1219" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/InLvivWeDegustateStrategy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <marker date="1565003401732" expanded="true" signature="41:1458" ph="{...}" />
+            <marker date="1565003401732" expanded="true" signature="100:1456" ph="{...}" />
+            <marker date="1565003401732" expanded="true" signature="156:275" ph="{...}" />
+            <marker date="1565003401732" expanded="true" signature="347:1021" ph="{...}" />
+            <marker date="1565003401732" expanded="true" signature="725:802" ph="{...}" />
+            <marker date="1565003401732" expanded="true" signature="892:967" ph="{...}" />
+            <marker date="1565003401732" expanded="true" signature="1091:1450" ph="{...}" />
+            <marker date="1565003401732" expanded="true" signature="1131:1414" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhrachkaBot.Main/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <marker date="1565003481679" expanded="true" signature="6:155" ph="..." />
+            <marker date="1565003481679" expanded="true" signature="183:3292" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="212:3290" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="410:606" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="662:985" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="877:975" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="1030:2820" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="1104:2809" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="1161:2795" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="1317:2110" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="2301:2432" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="2646:2777" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="2862:3074" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="2982:3064" ph="{...}" />
+            <marker date="1565003481679" expanded="true" signature="3157:3284" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

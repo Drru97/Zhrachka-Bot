@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\ZhrachkaBot" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ZhrachkaBot.Main" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CafeProvider.cs" t="Include" />
+        <e p="CoordinatesLocation.cs" t="Include" />
+        <e p="ILocation.cs" t="Include" />
+        <e p="InLvivWeDegustateStrategy.cs" t="Include" />
+        <e p="InPiterWeDrinkStrategy.cs" t="Include" />
+        <e p="IPlaceProvider.cs" t="Include" />
+        <e p="MatchingPlacesRequest.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Cafe.cs" t="Include" />
+          <e p="Place.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ZhrachkaBot.Main.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PhraseLanguage.cs" t="Include" />
+        <e p="Phrases.cs" t="Include" />
+        <e p="Place2.cs" t="Include" />
+        <e p="PlaceLocation.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="RandomNumberGenerator.cs" t="Include" />
+        <e p="SayStrategy.cs" t="Include" />
+        <e p="ZhrachkaBot.Main.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ZhrachkaBot.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\odutsiak\.Rider2019.1\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\odutsiak\.Rider2019.1\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\odutsiak\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\odutsiak\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_ZhrachkaBot.208274297.00" t="ExcludeRecursive" />
+  </component>
+</project>
