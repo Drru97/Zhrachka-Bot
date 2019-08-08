@@ -3,6 +3,63 @@
   <component name="ContentModelStore">
     <e p="C:\Projects\ZhrachkaBot" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
+      <e p="src\ZhrachkaBot.Abstractions" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CommandKind.cs" t="Include" />
+        <e p="CommandResultKind.cs" t="Include" />
+        <e p="ICommand.cs" t="Include" />
+        <e p="ICommandExecutor.cs" t="Include" />
+        <e p="ICommandManager.cs" t="Include" />
+        <e p="ICommandRepository.cs" t="Include" />
+        <e p="ICommandResult.cs" t="Include" />
+        <e p="ICommandResultProvider.cs" t="Include" />
+        <e p="ICommandResultProviderResolver.cs" t="Include" />
+        <e p="ICommandResultRepository.cs" t="Include" />
+        <e p="IRepository.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="ZhrachkaBot.Abstractions.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ZhrachkaBot.Abstractions.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="src\ZhrachkaBot.Console" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ZhrachkaBot.Console.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ZhrachkaBot.Console.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="src\ZhrachkaBot.Domain" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CommandExecutor.cs" t="Include" />
+        <e p="CommandManager.cs" t="Include" />
+        <e p="CommandResultProviderResolver.cs" t="Include" />
+        <e p="Commands" t="Include">
+          <e p="TextCommand.cs" t="Include" />
+          <e p="TextCommandResult.cs" t="Include" />
+        </e>
+        <e p="CommandTextResultProvider.cs" t="Include" />
+        <e p="Data" t="Include">
+          <e p="InMemoryCommandRepository.cs" t="Include" />
+          <e p="InMemoryCommandResultRepository.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="ZhrachkaBot.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ZhrachkaBot.Domain.csproj" t="IncludeRecursive" />
+      </e>
       <e p="ZhrachkaBot.Main" t="IncludeRecursive">
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
